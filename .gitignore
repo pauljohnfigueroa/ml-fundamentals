@@ -7,4 +7,5 @@ images
 *.png
 *.jpg
 *.pkl
+*.joblib
 NOTES.txt
